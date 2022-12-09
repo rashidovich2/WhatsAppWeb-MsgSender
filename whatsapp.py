@@ -1,3 +1,5 @@
+# Python code to send a whatsapp message to a particular person
+
 import pywhatkit as kit
 import pyautogui as pg
 
