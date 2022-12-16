@@ -1,6 +1,6 @@
 # WhatsAppWeb-MsgSender
 
-Set of simple python scripts used to send messages in WhatsApp Web
+Set of simple python scripts to send messages in WhatsApp Web
 
 # Scripts
 
